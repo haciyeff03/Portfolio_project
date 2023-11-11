@@ -1,1 +1,1 @@
-# EduWise
+# eduwise_project
