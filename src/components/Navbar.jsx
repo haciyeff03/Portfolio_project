@@ -15,7 +15,7 @@ const Navbar = () => {
           setActive("");
           window.scrollTo(0,0);
         }}>
-          <p className='text-red-600 text-[18px] font-bold cursor-pointer'>Qurban Haciyev  
+          <p className='text-white text-[18px] font-bold cursor-pointer'>Qurban Haciyev  
           <span className='sm:block hidden'>| Web Developer </span> </p>
           <p className='text-red-500'>asdca</p>
         </Link>
