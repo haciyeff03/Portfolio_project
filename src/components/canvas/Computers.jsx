@@ -1,8 +1,8 @@
-import React from 'react'
-
+import React from 'react';
+import { Suspense, useEffect, useState } from 'react';
 const Computers = () => {
   return (
-    <div>Computers</div>
+    <div>Computerss</div>
   )
 }
 
